@@ -11,9 +11,10 @@ this project need intermdiate level in see programing :-
 - i use :-
 
   -some if , while , pointers , 2d character dimensional array of charachters
-  -reading - reading to files .
-  -i use some special c function such as :-
+  -reading - reading to files
   
+  i use some special c function such as :-
+
      system("cls")
       rand()  
       srand(time(0))
